@@ -1,6 +1,7 @@
 # macos-show-desktop-app
 "Show Desktop" as app which you can add to Dock
 
+![Dock](dock.png)
 
 ### Installation
 
